@@ -13,9 +13,13 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        view.backgroundColor = .blue.withAlphaComponent(0.3)
+        setupViews()
     }
 
+    func setupViews() {
+        view.backgroundColor = .blue.withAlphaComponent(0.3)
+        view.alpha = 0.5
+    }
 
 }
 
