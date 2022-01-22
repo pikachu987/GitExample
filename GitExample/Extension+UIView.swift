@@ -23,3 +23,9 @@ extension UITextField {
         print("bbb")
     }
 }
+
+extension UILabel {
+    func aaa() {
+        print("aaa")
+    }
+}
