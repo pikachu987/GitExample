@@ -10,5 +10,6 @@ import UIKit
 extension UIView {
     func test() {
         alpha = 0.5
+        backgroundColor = .blue
     }
 }
