@@ -17,3 +17,9 @@ extension UIView {
         alpha = 0.7
     }
 }
+
+extension UITextField {
+    func bbbb() {
+        print("bbb")
+    }
+}
