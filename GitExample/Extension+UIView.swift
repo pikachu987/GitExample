@@ -17,3 +17,9 @@ extension UIView {
         alpha = 0.7
     }
 }
+
+extension UILabel {
+    func aaa() {
+        print("aaa")
+    }
+}
