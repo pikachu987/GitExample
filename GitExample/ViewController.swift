@@ -18,7 +18,7 @@ class ViewController: UIViewController {
 
     func setupViews() {
         view.backgroundColor = .blue.withAlphaComponent(0.3)
-        view.alpha = 0.5
+        view.alpha = 0.3
     }
 
 }
