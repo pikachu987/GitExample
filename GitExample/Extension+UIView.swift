@@ -12,4 +12,8 @@ extension UIView {
         alpha = 0.5
         backgroundColor = .blue
     }
+    
+    func test2() {
+        alpha = 0.7
+    }
 }
